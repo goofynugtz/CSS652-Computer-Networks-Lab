@@ -1,0 +1,13 @@
+JasperCyan@LAPTOP-UTQJNQCA MINGW64 /Lab 3 - DNS
+$ python client.py
+25 - 10
+15
+>> Completed in: 0.002s
+
+100 / 0
+inf
+>> Completed in: 0.001s
+
+46 - 12
+34
+>> Completed in: 0.001s
