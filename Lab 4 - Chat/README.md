@@ -1,0 +1,1 @@
+a chat app is server client network with multithreading in both sides

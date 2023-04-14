@@ -5,7 +5,7 @@ PORT = 3000
 IP = '127.0.0.1'
 
 def connect_to():
-  s = socket.socket()    
+  s = socket.socket()
   s.connect((IP, PORT))
   connected = True
   while connected:
